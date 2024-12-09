@@ -1,0 +1,42 @@
+* {
+	color: #000;
+}
+
+.header-top {
+	display: flex;
+
+}
+
+.img-card1 {
+	width: 300px;
+}
+
+.header-top-inner {
+	width: 800px;
+	margin-left: 80px;
+
+}
+
+.img-card {
+	width: 200px;
+}
+
+.header-bottom {
+	display: flex;
+}
+
+.header-bottom-inner {
+	margin-right: 50px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	margin-top: 15px;
+}
+
+a {
+	text-decoration: none;
+}
